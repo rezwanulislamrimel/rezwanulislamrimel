@@ -1,142 +1,183 @@
 <p align="center">
   <!-- Replace below with your animated banner GIF -->
-  <img src="YOUR_ANIMATED_BANNER.gif" width="100%" alt="Premium Animated Banner">
+  <img src=""C:\Users\Rimel\Downloads\ChatGPT Image Dec 9, 2025, 11_06_46 PM.png"" width="100%" alt="Premium Animated Banner">
 </p>
 
-<h1 align="center">💼 Rezwanul Islam Rimel</h1>
+<h1 align="center">💼 Rezwanul Islam </h1>
 <h3 align="center">Senior Software Quality Assurance (SQA) Engineer</h3>
 
 <p align="center">Manual & Automation Testing • Web & API Quality • Test Strategy • SDLC • Agile QA</p>
 
 ---
-
-## 🎬 GitHub Intro (GIF)
 <p align="center">
-  <!-- Replace with any GIF you like (typing, coding, QA testing animation) -->
+  <!-- Replace this with your animated banner GIF -->
+  <img src="YOUR_ANIMATED_BANNER.gif" width="100%" alt="Premium Animated Banner">
+</p>
+
+<h1 align="center">💼 Rezwanul Islam </h1>
+<h3 align="center">Senior Software Quality Assurance (SQA) Engineer</h3>
+
+<p align="center">
+Manual & Automation Testing • Web & API Quality • Test Strategy • Agile QA • SDLC • STLC
+</p>
+
+---
+
+# 💫 About Me
+🔭 I'm currently working on  
+Enhancing my SQA skills, building JavaScript-based automation frameworks, and improving both manual & automated testing workflows.
+
+🤝 I'm looking to collaborate on  
+Web & API testing projects where I can contribute with **manual testing**, **JS automation**, and **QA documentation**.
+
+🫱 I'm looking for help with  
+Advanced automation (Playwright / Selenium) and Python-based testing frameworks.
+
+🌱 I'm currently learning  
+JavaScript Automation · Python · Selenium · Playwright · Postman API · SDLC · STLC · Agile · JIRA · TestRail  
+
+💬 Ask me about  
+Manual Testing • Test Case Design • Bug Reporting • Regression Testing • Web Automation • QA Strategy  
+
+⚡ Fun fact  
+I automate tests so bugs run out of places to hide.
+
+---
+
+# 🎬 GitHub Intro GIF
+<p align="center">
   <img src="YOUR_INTRO_GIF.gif" width="400px">
 </p>
 
 ---
 
-## 🌟 About Me
-I am a **results-driven SQA Engineer** specializing in **high-quality manual testing, scalable automation**, and creating QA processes that reduce risk and improve release reliability.  
-My focus is delivering **consistent, production-ready software** that meets user expectations and business requirements.
+# 📂 SQA Project Portfolio
 
-I bring senior-level clarity to test planning, automation strategy, defect analysis, and communication within cross-functional teams.
-
----
-
-## 🚀 Core Competencies
-- Test Strategy, Planning & End-to-End QA Ownership  
-- Manual, Exploratory & Regression Testing  
-- JavaScript Test Automation (Playwright, Selenium, Cypress)  
-- API Testing (Postman, Swagger, REST validation)  
-- Defect RCA, Risk Analysis & Release Readiness  
-- Agile QA Leadership & Documentation
-
----
-
-# 📂 SQA Project Portfolio (Premium Section)
-
-### **🔧 1. Web Application QA – Full Testing Lifecycle**
-**Scope:** Functional, UI/UX, Regression, Smoke  
+### 🔧 **1. Web Application QA – Full Testing Lifecycle**
 **Deliverables:**  
 - Test Plan  
 - 180+ Test Cases  
-- Bug Reports (JIRA)  
-- Daily QA Reports  
-
-**Outcome:** Reduced post-release bugs by **35%** across 3 versions.
-
----
-
-### **🧪 2. API Testing Suite – Postman + JavaScript Assertions**
-**Tools:** Postman, Newman CLI  
-**Coverages:**  
-✔ Authentication  
-✔ CRUD Operations  
-✔ Error Handling  
-✔ Data Validation  
-
-**Outcome:** Identified 12 backend inconsistencies before deployment.
+- Regression + Smoke Suites  
+- JIRA Bug Reports  
+- QA Documentation  
+**Impact:** Reduced post-release bugs by **35%**.
 
 ---
 
-### **🧵 3. Cross-Browser Compatibility Test Project**
-**Browsers:** Chrome, Firefox, Edge  
-**Focus:** UI rendering, responsiveness, stability under load  
-**Outcome:** Ensured >95% UI consistency across all major browsers.
+### 🧪 **2. API Testing Suite – Postman + JavaScript Assertions**
+**Coverage:**  
+✔ Auth  
+✔ CRUD  
+✔ Error handling  
+✔ Schema / Data validation  
+**Impact:** Identified 12 backend issues before release.
 
 ---
 
-# ⚙️ Featured Test Automation Projects (Highly Recruiter-Friendly)
+### 🧵 **3. Cross-Browser Compatibility Project**
+Browsers: Chrome, Firefox, Edge  
+Focus: UI rendering, consistency, stability  
+**Impact:** Achieved 95% cross-browser stability.
 
-### **🔥 Playwright Automation Framework (JavaScript)**
+---
+
+# ⚙️ Featured Automation Projects
+
+### 🔥 **Playwright (JavaScript) Automation Framework**
 - Page Object Model  
-- Parallel execution  
-- Reusable utils & fixtures  
-- Custom HTML report  
-**Repo:** [Add your repo link]
+- Parallel Execution  
+- Custom Test Reports  
+- Reusable Utilities  
+
 
 ---
 
-### **🤖 Selenium Web Automation (JavaScript/Python)**
-- Modular architecture  
-- Config-driven test execution  
-- Automated screenshots on failure  
-**Repo:** [Add your repo link]
+### 🤖 **Selenium Web Automation**
+- Modular test architecture  
+- Screenshot on failure  
+- Config-driven execution  
+
 
 ---
 
-### **🛠 API Automation (JavaScript + Newman CLI)**
-- Dynamic payloads  
+### 🛠 **API Automation (JavaScript + Newman CLI)**
 - Chained requests  
-- Exportable automated report  
-**Repo:** [Add your repo link]
+- Dynamic payloads  
+- Automated reporting  
+
 
 ---
 
-# 🏢 FAANG / Big Tech Version (Meta, Google, Amazon, Microsoft)
-
-### **🌍 Why I’m a Strong Fit for Global Teams**
-- Strong technical depth in QA + clear communication  
-- Experience creating self-sufficient automation suites  
-- Organized, detail-focused, zero-noise bug reporting  
-- Understands scalable systems and product release pipelines  
-- Works well in async, distributed engineering environments  
-
-### **💡 What I Optimize For**
-- Reducing unnecessary QA cycles  
-- Increasing automation coverage  
-- Early bug detection  
-- Stable, predictable releases  
-- Developer-friendly QA processes  
+# 🌐 Socials
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/rezwanulrimel) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Mohammadrezwanulrimel)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rezwanulrimel/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rezwanulrimel/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rezwanulrimel.medium.com)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/rezwanulislamrimel/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rezwanulrimel97)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rezwanul.rimel97@gmail.com)
 
 ---
 
-# 🧪 Tech Stack (Minimal FAANG-Style)
-**Testing:** Playwright, Selenium, Cypress, Postman  
-**Automation:** JavaScript, Python  
-**DevOps:** GitHub Actions  
-**Project Tools:** JIRA, TestRail  
-**Core Skills:** Test Strategy • Regression • API Validation • STLC • Agile
+# 💻 Tech Stack (Cleaned & Organized)
+
+### **Programming & Automation**
+JavaScript · TypeScript · Python · Node.js · PowerShell
+
+### **Manual & Automation Testing**
+Playwright · Selenium · Cypress · Mocha · Postman · Swagger · Testing Library
+
+### **DevOps / CI**
+GitHub Actions · GitLab CI · Jenkins
+
+### **Web Technologies**
+HTML5 · CSS3 · Bootstrap · TailwindCSS · React · Vue · React Native  
+Vite · React Query · React Router · React Hook Form
+
+### **Cloud & Backend**
+AWS · Firebase · Cloudflare · FastAPI · Node.js
+
+### **Tools & Design**
+JIRA · TestRail · Figma · Canva · Sketch  
+Git · GitHub · GitLab · Bitbucket · Trello
+
+### **Databases**
+Microsoft SQL Server  
 
 ---
 
-# 📊 GitHub Performance
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=rezwanulislamrimel&theme=dark&hide_border=false&include_all_commits=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=rezwanulislamrimel&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanulislamrimel&theme=dark&hide_border=false&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rezwanulislamrimel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+---
+
+# 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=rezwanulislamrimel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezwanulislamrimel&theme=dark&hide_border=false&include_all_commits=true">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rezwanulislamrimel&theme=dark&hide_border=false">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=rezwanulislamrimel&icon=0&color=0">
+  </a>
 </p>
 
 ---
 
-# 📞 Contact  
-📧 **Email:** rezwanul.rimel97@gmail.com  
-💬 **WhatsApp:** +880 1600 005412  
-🔗 **LinkedIn:** https://www.linkedin.com/in/rezwanulrimel/  
-📘 **Facebook:** https://www.facebook.com/Mohammadrezwanulrimel  
-📸 **Instagram:** https://www.instagram.com/rezwanulrimel/  
-📝 **Medium:** https://medium.com/@rezwanulrimel.medium.com  
+<p align="center">🔥 Open to international remote QA roles — Manual + Automation | Web | API | Test Strategy</p>
 
-<p align="center">Open to Remote • Hybrid • On-site opportunities worldwide 🌍</p>
+<!-- Proudly created with GPRM + Customized by ChatGPT -->
+
