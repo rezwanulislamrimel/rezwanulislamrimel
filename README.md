@@ -36,12 +36,7 @@ I’m a passionate **Software Quality Assurance (SQA) Engineer** focused on deli
 
 ---
 
-# 🎬 GitHub Intro GIF
-<p align="center">
-  <img src="YOUR_INTRO_GIF.gif" width="400px">
-</p>
 
----
 
 # 📂 SQA Project Portfolio
 
