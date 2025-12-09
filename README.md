@@ -110,31 +110,8 @@ Focus: UI rendering, consistency, stability
 
 ---
 
-# 💻 Tech Stack (Cleaned & Organized)
-
-### **Programming & Automation**
-JavaScript · TypeScript · Python · Node.js · PowerShell
-
-### **Manual & Automation Testing**
-Playwright · Selenium · Cypress · Mocha · Postman · Swagger · Testing Library
-
-### **DevOps / CI**
-GitHub Actions · GitLab CI · Jenkins
-
-### **Web Technologies**
-HTML5 · CSS3 · Bootstrap · TailwindCSS · React · Vue · React Native  
-Vite · React Query · React Router · React Hook Form
-
-### **Cloud & Backend**
-AWS · Firebase · Cloudflare · FastAPI · Node.js
-
-### **Tools & Design**
-JIRA · TestRail · Figma · Canva · Sketch  
-Git · GitHub · GitLab · Bitbucket · Trello
-
-### **Databases**
-Microsoft SQL Server  
-
+💻 Tech Stack:
+C CSS3 HTML5 PowerShell Python TypeScript JavaScript AWS Cloudflare Firebase Bootstrap DaisyUI FastAPI NodeJS React React Native React Query React Router React Hook Form SASS Semantic UI React Socket.io TailwindCSS Vite Vue.js WordPress Jenkins Firebase MicrosoftSQLServer Canva Figma Framer Sketch Git Gitee GitHub GitLab Bitbucket GitLab CI GitHub Actions Cypress Mocha Playwright Selenium Testing-Library Airbnb Jira Postman Portfolio Trello Swagger
 ---
 
 # 📊 GitHub Stats
