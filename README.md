@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">💼 Rezwanul Islam </h1>
-<h3 align="center"> jnr Software Quality Assurance (SQA) Engineer</h3>
+<h3 align="center"> Jnr Software Quality Assurance (SQA) Engineer</h3>
 
 <p align="center">
 Manual & Automation Testing | Web & API Quality | Mobile App Testing (Learning) | Test Strategy | Agile QA | SDLC & STLC
