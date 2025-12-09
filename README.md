@@ -1,14 +1,4 @@
-<p align="center">
-  <!-- Replace below with your animated banner GIF -->
-  <img src=""C:\Users\Rimel\Downloads\ChatGPT Image Dec 9, 2025, 11_06_46 PM.png"" width="100%" alt="Premium Animated Banner">
-</p>
 
-<h1 align="center">💼 Rezwanul Islam </h1>
-<h3 align="center">Senior Software Quality Assurance (SQA) Engineer</h3>
-
-<p align="center">Manual & Automation Testing • Web & API Quality • Test Strategy • SDLC • Agile QA</p>
-
----
 <p align="center">
   <!-- Replace this with your animated banner GIF -->
   <img src="YOUR_ANIMATED_BANNER.gif" width="100%" alt="Premium Animated Banner">
