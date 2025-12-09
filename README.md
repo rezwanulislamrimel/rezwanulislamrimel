@@ -13,24 +13,26 @@ Manual & Automation Testing • Web & API Quality • Test Strategy • Agile QA
 
 ---
 
-# 💫 About Me
-🔭 I'm currently working on  
-Enhancing my SQA skills, building JavaScript-based automation frameworks, and improving both manual & automated testing workflows.
+## 💫 About Me  
+I’m a passionate **Software Quality Assurance (SQA) Engineer** focused on delivering reliable, user-ready software through strong manual testing and modern JavaScript-based automation.
 
-🤝 I'm looking to collaborate on  
-Web & API testing projects where I can contribute with **manual testing**, **JS automation**, and **QA documentation**.
+- 🔭 Currently working on:  
+  Enhancing my **SQA expertise**, building **JS automation frameworks**, and refining **test strategies** for high-quality releases.
 
-🫱 I'm looking for help with  
-Advanced automation (Playwright / Selenium) and Python-based testing frameworks.
+- 🤝 Looking to collaborate on:  
+  **Web & API testing**, QA documentation, regression test suites, and JavaScript-based automation projects.
 
-🌱 I'm currently learning  
-JavaScript Automation · Python · Selenium · Playwright · Postman API · SDLC · STLC · Agile · JIRA · TestRail  
+- 🫱 Looking for help with:  
+  **Advanced Automation** (Selenium, Playwright) and Python-based frameworks.
 
-💬 Ask me about  
-Manual Testing • Test Case Design • Bug Reporting • Regression Testing • Web Automation • QA Strategy  
+- 🌱 Currently learning:  
+  **JavaScript Automation • Python for Testing • Selenium • Playwright • Postman API • SDLC • STLC • Agile • JIRA • TestRail**
 
-⚡ Fun fact  
-I automate tests so bugs run out of places to hide.
+- 💬 Ask me about:  
+  **Manual Testing, Bug Reporting, Test Case Design, Regression Testing, Web Automation, QA Strategy**
+
+- ⚡ Fun Fact:  
+  *I automate tests so bugs run out of places to hide.*
 
 ---
 
