@@ -8,7 +8,7 @@
 <h3 align="center">Senior Software Quality Assurance (SQA) Engineer</h3>
 
 <p align="center">
-Manual & Automation Testing • Web & API Quality • Test Strategy • Agile QA • SDLC • STLC
+Manual & Automation Testing | Web & API Quality | Mobile App Testing (Learning) | Test Strategy | Agile QA | SDLC & STLC
 </p>
 
 ---
