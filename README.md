@@ -96,7 +96,7 @@ Focus: UI rendering, consistency, stability
 ---
 
 # 🌐 Socials
-Whatsapp: 01600005412
+Whatsapp: +8801600005412
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/rezwanulrimel) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Mohammadrezwanulrimel)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rezwanulrimel/)
