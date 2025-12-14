@@ -23,7 +23,7 @@ I’m a passionate **Software Quality Assurance (SQA) Engineer** focused on deli
   **Web & API testing**, QA documentation, regression test suites, and JavaScript-based automation projects.
 
 - 🫱 Looking for help with:  
-  **Advanced Automation** (Selenium, Playwright) and Python-based frameworks.
+  **Advanced Automation** (Selenium, Playwright) and Python-based frameworks (learning).
 
 - 🌱 Currently learning:  
   **JavaScript Automation • Python for Testing • Selenium • Playwright • Postman API • SDLC • STLC • Agile • JIRA • TestRail**
