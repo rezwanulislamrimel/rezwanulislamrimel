@@ -39,29 +39,7 @@ I’m a passionate **Software Quality Assurance (SQA) Engineer** focused on deli
 
 
 
-# ⚙️ Featured Automation Projects
 
-### 🔥 **Playwright (JavaScript) Automation Framework**
-- Page Object Model  
-- Parallel Execution  
-- Custom Test Reports  
-- Reusable Utilities  
-
-
----
-
-### 🤖 **Selenium Web Automation**
-- Modular test architecture  
-- Screenshot on failure  
-- Config-driven execution  
-
-
----
-
-### 🛠 **API Automation (JavaScript + Newman CLI)**
-- Chained requests  
-- Dynamic payloads  
-- Automated reporting  
 
 📫 Get in Touch
 📧 Email: rezwanul.rimel97@gmail.com
