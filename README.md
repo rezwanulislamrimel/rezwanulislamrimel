@@ -107,8 +107,6 @@ I’m a passionate **Software Quality Assurance (SQA) Engineer** focused on deli
 
 ---
 
-# 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=rezwanulislamrimel&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
