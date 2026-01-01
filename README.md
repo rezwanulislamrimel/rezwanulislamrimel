@@ -38,35 +38,6 @@ I’m a passionate **Software Quality Assurance (SQA) Engineer** focused on deli
 
 
 
-# 📂 SQA Project Portfolio
-
-### 🔧 **1. Web Application QA – Full Testing Lifecycle**
-**Deliverables:**  
-- Test Plan  
-- 180+ Test Cases  
-- Regression + Smoke Suites  
-- JIRA Bug Reports  
-- QA Documentation  
-**Impact:** Reduced post-release bugs by **35%**.
-
----
-
-### 🧪 **2. API Testing Suite – Postman + JavaScript Assertions**
-**Coverage:**  
-✔ Auth  
-✔ CRUD  
-✔ Error handling  
-✔ Schema / Data validation  
-**Impact:** Identified 12 backend issues before release.
-
----
-
-### 🧵 **3. Cross-Browser Compatibility Project**
-Browsers: Chrome, Firefox, Edge  
-Focus: UI rendering, consistency, stability  
-**Impact:** Achieved 95% cross-browser stability.
-
----
 
 # ⚙️ Featured Automation Projects
 
@@ -92,11 +63,16 @@ Focus: UI rendering, consistency, stability
 - Dynamic payloads  
 - Automated reporting  
 
+📫 Get in Touch
+📧 Email: rezwanul.rimel97@gmail.com
+🌐 Portfolio: 
+📄 Resume: https://drive.google.com/file/d/1hcx6o2Jj6BK9pgldlHmS0ZEsvT8MX1nj/view?usp=sharing
+📱 Mobile: +8801600005412
 
 ---
 
 # 🌐 Socials
-Whatsapp: +8801600005412
+
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/rezwanulrimel) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Mohammadrezwanulrimel)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rezwanulrimel/)
