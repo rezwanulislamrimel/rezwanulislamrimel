@@ -44,7 +44,7 @@ I’m a passionate **Software Quality Assurance (SQA) Engineer** focused on deli
 📫 Get in Touch
 📧 Email: rezwanul.rimel97@gmail.com
 🌐 Portfolio: 
-📄 [Resume]([url](https://drive.google.com/file/d/1sL-ahUrQht1r5LS9Zbiov2Yxcl4QKOXR/view?usp=sharing)): 
+📄 [Resume]([url](https://drive.google.com/file/d/1sL-ahUrQht1r5LS9Zbiov2Yxcl4QKOXR/view?usp=sharing)):  https://drive.google.com/file/d/1sL-ahUrQht1r5LS9Zbiov2Yxcl4QKOXR/view?usp=sharing
 📱 Mobile: +8801600005412
 
 ---
