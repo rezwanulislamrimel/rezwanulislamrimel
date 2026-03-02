@@ -40,17 +40,18 @@ I’m a detail-oriented **SQA Engineer** dedicated to delivering high-quality, b
 
 ---
 
-# 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=rezwanulislamrimel&theme=dark&hide_border=false&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanulislamrimel&theme=dark&hide_border=false&layout=compact" width="48%" />
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezwanulislamrimel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanulislamrimel&show_icons=true&theme=radical&layout=compact" width="48%" />
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rezwanulislamrimel&theme=radical&no-frame=false&margin-w=4" width="100%" />
 </p>
 
 ---
-
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rezwanulislamrimel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 
 # 📬 Connect with Me
