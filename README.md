@@ -1,13 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rezwanul%20Islam%20&fontSize=70" width="100%" alt="Banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Rezwanul%20Islam%20&fontSize=70&animation=fadeIn" width="100%" alt="Banner">
 </p>
 
-<h1 align="center">💼 Rezwanul Islam (Rimel)</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=SQA+Engineer+@unidevGO;Automation+Expert+(Playwright+%26+Selenium);TypeScript+%26+JavaScript+Enthusiast;I+find+bugs+before+they+find+you!" alt="Typing SVG" />
+</p>
+
+<!-- <h1 align="center">💼 Rezwanul Islam (Rimel)</h1>
 <h3 align="center">Software Quality Assurance (SQA) Engineer @unidevGO</h3>
 
 <p align="center">
 <b>Manual & Automation Testing | Playwright (TS) & Selenium (JS) | API Testing | Web & Mobile QA</b>
-</p>
+</p> -->
 
 ---
 
