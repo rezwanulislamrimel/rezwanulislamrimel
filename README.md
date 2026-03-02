@@ -18,7 +18,7 @@
 ## 💫 About Me  
 I’m a detail-oriented **SQA Engineer** dedicated to delivering high-quality, bug-free software. I specialize in bridging the gap between manual precision and automated efficiency using modern TypeScript-based frameworks.
 
-- 🔭 **Currently at:** Working as a Junior SQA Engineer at **unidevGO**, ensuring top-tier web and mobile application quality.
+- 🔭 **Currently at:** Working as a Junior SQA Engineer at **unidevGO Software Solutions Ltd**., ensuring top-tier web and mobile application quality.
 - ⚡ **Core Focus:** Building robust **Playwright (TypeScript)** automation suites and mastering API testing workflows.
 - 🤝 **Collaborations:** Open to projects involving Web/Mobile automation, performance testing, and QA process optimization.
 - 💬 **Ask me about:** Manual Testing, Test Case Design, Bug Reporting (Jira), Web Automation, and SDLC/STLC.
