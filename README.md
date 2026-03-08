@@ -58,9 +58,11 @@ I’m a detail-oriented **SQA Engineer** dedicated to delivering high-quality, b
 ---
 ---
 
-# 📬 Connect with Me
+# 📬 Connect with Me 
+
 <p align="left">
-<a href="https://www.linkedin.com/in/rezwanulrimel/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+WhatsApp: +8801600005412
+  <a href="https://www.linkedin.com/in/rezwanulrimel/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:rezwanul.rimel97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://x.com/rezwanulrimel97"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
 </p>
