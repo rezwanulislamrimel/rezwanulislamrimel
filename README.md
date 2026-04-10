@@ -67,9 +67,6 @@ I'm a detail-oriented **SQA Engineer** passionate about delivering high-quality,
 
 
 ---
-
-
----
 ## 📈 Contribution Graph
 
 <p align="center">
