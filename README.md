@@ -78,7 +78,7 @@ I'm a detail-oriented **SQA Engineer** passionate about delivering high-quality,
 </p>
 
 <p align="center">
-  <b> Open to Remote SQA Roles &nbsp;·&nbsp; Manual + Automation Specialist &nbsp;·&nbsp; Available for Freelance</b>
+  <b> Open to Remote QA Roles &nbsp;·&nbsp; Manual + Automation Specialist &nbsp;·&nbsp; Available for Freelance</b>
 </p>
 
 
