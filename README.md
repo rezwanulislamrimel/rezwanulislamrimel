@@ -13,7 +13,7 @@
   <a href="mailto:rezwanul.rimel97@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://x.com/rezwanulrimel97">
+  <a href="https://x.com/RezwanulRi1796">
     <img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&logo=x&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=rezwanulislamrimel&style=flat-square&color=36BCF7&label=Profile+Views" />
